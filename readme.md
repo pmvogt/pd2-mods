@@ -2,6 +2,8 @@
 
 ## Install
 
+.RAR files with the mods contained at the release link here: https://github.com/pmvogt/pd2-mods/releases/tag/mods
+
 These are my mods. Contents of mods folder should go in `common/PAYDAY 2/mods`, except for the contents of the directory `mod_overrides`. That content needs to be placed in your `PAYDAY 2/assets/mod_overrides` directory, then you can delete the `mod_overrides` directory in here.
 
 ## Configuration
