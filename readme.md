@@ -179,254 +179,254 @@ Lets you mark your own waypoints. Dependency for one of the bot improvement mods
 
 - Hotline Miami Combo Counter
 
-  https://modworkshop.net/mod/30999
+https://modworkshop.net/mod/30999
 
-  Animated score and kill counter
+Animated score and kill counter
 
 * Immersive Dodge Sounds
 
-  https://modworkshop.net/mod/35278
+https://modworkshop.net/mod/35278
 
-  Makes a much better wooooosh noise when the dodge effect in your build kicks in and a bullet goes flying by. Woosh
+Makes a much better wooooosh noise when the dodge effect in your build kicks in and a bullet goes flying by. Woosh
 
 * Intro Cinematics
 
-  https://modworkshop.net/mod/27164
+https://modworkshop.net/mod/27164
 
-  Plays awesome cutscene-type angles of the heist map as the game loads in, replacing the loading screen. Not necessary but cool
+Plays awesome cutscene-type angles of the heist map as the game loads in, replacing the loading screen. Not necessary but cool
 
 - Iter
 
-  https://pd2mods.z77.fr/iter.html
+https://pd2mods.z77.fr/iter.html
 
-  Fixe the garbage NPC pathing in this game
+Fixe the garbage NPC pathing in this game
 
 - Joy's Score Counter
 
-  https://modworkshop.net/mod/24730
+https://modworkshop.net/mod/24730
 
-  Dependency for Hotline Miami Combo Counter. I generally hide this one and just display the Hotline Miami counter. You can use either one, or neither if you don't want care about tracking kills and score functionality. Or both I guess if you wanted to. In stealth, kill and score counts don't matter, so make of that what you will.
+Dependency for Hotline Miami Combo Counter. I generally hide this one and just display the Hotline Miami counter. You can use either one, or neither if you don't want care about tracking kills and score functionality. Or both I guess if you wanted to. In stealth, kill and score counts don't matter, so make of that what you will.
 
 - Keepers
 
-  https://pd2mods.z77.fr/keepers.html
+https://pd2mods.z77.fr/keepers.html
 
-  Issue orders to AI/friendly NPCs. Plays really nicely with Better Bots. In the game options > mod keybinds, you can set hotkeys to make your AI team hold and follow.
+Issue orders to AI/friendly NPCs. Plays really nicely with Better Bots. In the game options > mod keybinds, you can set hotkeys to make your AI team hold and follow.
 
 - Less Inaccurate Weapon Laser
 
-  https://pd2mods.z77.fr/less_inaccurate_weapon_laser.html
+https://pd2mods.z77.fr/less_inaccurate_weapon_laser.html
 
-  Guess what this does?
+Guess what this does?
 
 - Map-based Optimizations
 
-  https://modworkshop.net/mod/30521
+https://modworkshop.net/mod/30521
 
-  Perf improvements for most of the heists in the game
+Perf improvements for most of the heists in the game
 
 - Menu Backgrounds
 
-  https://modworkshop.net/mod/17160
+https://modworkshop.net/mod/17160
 
-  Custom menu backgrounds. Comes with a few out of the gate, but ModWorkshop has a ton of options too. In this repo, all of the backgrounds I already downloaded can already be found in `Menu Backgrounds/Assets`. To set different backgrounds go to Mods > Mod Options > Menu Backgrounds.
+Custom menu backgrounds. Comes with a few out of the gate, but ModWorkshop has a ton of options too. In this repo, all of the backgrounds I already downloaded can already be found in `Menu Backgrounds/Assets`. To set different backgrounds go to Mods > Mod Options > Menu Backgrounds.
 
 - Meth Helper Updated
 
-  https://modworkshop.net/mod/25950
+https://modworkshop.net/mod/25950
 
-  Automatically spits the next meth ingredient out into the chat, as a message from you (e.g. THE CJ CAR: Add Caustic Soda)
+Automatically spits the next meth ingredient out into the chat, as a message from you (e.g. THE CJ CAR: Add Caustic Soda)
 
 - More Paint Schemes
 
-  https://modworkshop.net/mod/36509
+https://modworkshop.net/mod/36509
 
-  Adds a bunch more paint schemes in weapon mods. Schemes are the manner in which a skin is applied e.g. "Tactical", "Broken in", "Mint condition" etc
+Adds a bunch more paint schemes in weapon mods. Schemes are the manner in which a skin is applied e.g. "Tactical", "Broken in", "Mint condition" etc
 
 - No Concussion Tinnitus
 
-  https://modworkshop.net/mod/22127
+https://modworkshop.net/mod/22127
 
-  Removes tinnitus effect (ear "ringing") effect when you get hit with a flashbang
+Removes tinnitus effect (ear "ringing") effect when you get hit with a flashbang
 
 - No Duplicated Bullets
 
-  https://pd2mods.z77.fr/no_duplicated_bullets.html
-  Fixes some desync issues when playing as a client online
+https://pd2mods.z77.fr/no_duplicated_bullets.html
+Fixes some desync issues when playing as a client online
 
 - No prints
 
-  https://modworkshop.net/mod/21549
+https://modworkshop.net/mod/21549
 
-  Purely performance related improvement - disables a bunch of debug invocations that the game devs put in all over the place (lol)
+Purely performance related improvement - disables a bunch of debug invocations that the game devs put in all over the place (lol)
 
 - No Screen Shake
 
-  https://modworkshop.net/mod/22471
+https://modworkshop.net/mod/22471
 
-  Shoutout to Rocket League
+Shoutout to Rocket League
 
 - Advanced Crosshairs, Hitmarkers + Hitsounds ("ACH")
 
-  https://modworkshop.net/mod/29585
+https://modworkshop.net/mod/29585
 
-  Better crosshair and audio/visual feedback when capping a MFer
+Better crosshair and audio/visual feedback when capping a MFer
 
 - PD2-hoplib-master
 
-  This is a dependency for something. Not sure what.
+This is a dependency for something. Not sure what.
 
 - Keepers Jokers Names
 
-  https://modworkshop.net/mod/21416
+https://modworkshop.net/mod/21416
 
-  Gives converted police a unique human name like "Greg", lol
+Gives converted police a unique human name like "Greg", lol
 
 - PECM Bug Fix
 
-  https://modworkshop.net/mod/32373
+https://modworkshop.net/mod/32373
 
-  Fixes a bug where pocket ECM can crash your game. It's never happened to me before, but I installed this just in case, because I use Hacker consistently in Stealth. If you don't use Hacker at all this is worthless
+Fixes a bug where pocket ECM can crash your game. It's never happened to me before, but I installed this just in case, because I use Hacker consistently in Stealth. If you don't use Hacker at all this is worthless
 
 - QuickKeyboardInput
 
-  https://pd2mods.z77.fr/quick_keyboard_input.html
+https://pd2mods.z77.fr/quick_keyboard_input.html
 
-  Dependency for BuilDB
+Dependency for BuilDB
 
 - Search Inventory
 
-  https://pd2mods.z77.fr/search_inventory.html
+https://pd2mods.z77.fr/search_inventory.html
 
-  Query inventory view with string input
+Query inventory view with string input
 
 - Sensitivity Fixer
 
-  https://modworkshop.net/mod/12823
+https://modworkshop.net/mod/12823
 
-  Changes game options mouse sensitivity to 0 - 1 range rather than 0.7 - 1.7
+Changes game options mouse sensitivity to 0 - 1 range rather than 0.7 - 1.7
 
 - Silent Assassin
 
-  https://pdmods-arc.berigora.net/paydaymods.com/mods/304/silentassassin.html
+https://pdmods-arc.berigora.net/paydaymods.com/mods/304/silentassassin.html
 
-  huehuehuehuehue
+huehuehuehuehue
 
 - Simple Mod Updater
 
-  BLT dependency. auto-installs with BLT
+BLT dependency. auto-installs with BLT
 
 - The Fixes
 
-  https://modworkshop.net/mod/23732
+https://modworkshop.net/mod/23732
 
-  Must-have fixes some bugs that exist in the game out of the box
+Must-have fixes some bugs that exist in the game out of the box
 
 - VanillaHUD Plus
 
-  https://modworkshop.net/mod/25629
+https://modworkshop.net/mod/25629
 
-  This is the latest stable iteration of what was formerly called WolfHUD. Best HUD mod available to display in-game info.
+This is the latest stable iteration of what was formerly called WolfHUD. Best HUD mod available to display in-game info.
 
 - VoidUI
 
-  https://modworkshop.net/mod/20997
+https://modworkshop.net/mod/20997
 
-  Greatly enhances readability and pretty-ness of menu and UI elements of the game. I love this one but it is a little opinionated. It can be replaced by HoloUI, among others, if you don't like it. HoloUI, similar to Void, has autodetection of other HUD mods built in. Check VanillaHUD's official mod page for compatability settings with HoloUI and other UI mods.
+Greatly enhances readability and pretty-ness of menu and UI elements of the game. I love this one but it is a little opinionated. It can be replaced by HoloUI, among others, if you don't like it. HoloUI, similar to Void, has autodetection of other HUD mods built in. Check VanillaHUD's official mod page for compatability settings with HoloUI and other UI mods.
 
 - VoidUI Hotline Miami Vibe
 
-  https://modworkshop.net/mod/36209
+https://modworkshop.net/mod/36209
 
-  Beautiful color scheme for VoidUI
+Beautiful color scheme for VoidUI
 
 - Yet Another Flashlight
 
-  https://pd2mods.z77.fr/yet_another_flashlight.html
+https://pd2mods.z77.fr/yet_another_flashlight.html
 
-  Greatly improves the in-game flashlight quality. Makes seeing in the dark much nicer
+Greatly improves the in-game flashlight quality. Makes seeing in the dark much nicer
 
 ### Mod Overrides
 
 - HOXTON BREAKOUT - Thomas
-  Turns the truck into Thomas the Tank Engine
+Turns the truck into Thomas the Tank Engine
 - Deskinned... mods, Luxurious Weapon Colors
-  Beautiful skins for your weapons
+Beautiful skins for your weapons
 - 00 FEDNET Icons + Fednet player styles
-  Improved visual icons and player styles for the menus
+Improved visual icons and player styles for the menus
 - Alternative Cocaine Bags
-  Nicer stacks of coke before bagging
+Nicer stacks of coke before bagging
 - Belle Daphine body bag case
-  I just like the purple color it makes the body bag case lol
+I just like the purple color it makes the body bag case lol
 - Beneath the mountain keycard
-  Custom murkywater keycard replaces gen sec keycard
+Custom murkywater keycard replaces gen sec keycard
 - Better Camera Beeps
-  Makes the security cam beeps MUCH less annoying
+Makes the security cam beeps MUCH less annoying
 - Boiling Point - Russian keycard
-  Russian keycard replaces gensec in boiling point
+Russian keycard replaces gensec in boiling point
 - Capitol Meme Gallery
-  Replaces art in the art gallery hesits with memes
+Replaces art in the art gallery hesits with memes
 - Clean Drill Screen
-  Gives the drill screen a flat black background, easier to read due to the higher contrast
+Gives the drill screen a flat black background, easier to read due to the higher contrast
 - Default - Gensec keycard
-  Improved keycard
+Improved keycard
 - Enhanced Glass Cutting
-  Makes the glass cutting noise for several stealth heists MUCH less annoying
+Makes the glass cutting noise for several stealth heists MUCH less annoying
 - Even More Visible Power Box
-  Replaces default power box textures with a much more visible black, makes them easier to find in White House, Diamond Heist, etc
+Replaces default power box textures with a much more visible black, makes them easier to find in White House, Diamond Heist, etc
 - Golden Grin Keycard
-  Keycard texture replacements for Golden Grin Casino, replaces gensec keycards
+Keycard texture replacements for Golden Grin Casino, replaces gensec keycards
 - Hank Hill - Dallas
-  Makes Jacket say "Dallas" like Hank Hill from King of the Hill
+Makes Jacket say "Dallas" like Hank Hill from King of the Hill
 - High Quality Ammo Bags
-  improved ammo bag texture
+improved ammo bag texture
 - Highlighter
-  Adds contour / highlight lines for a TON of stuff: cameras, planks, gage packs, keycards, gas cans, and more. Huge time saver
+Adds contour / highlight lines for a TON of stuff: cameras, planks, gage packs, keycards, gas cans, and more. Huge time saver
 - IceTech$Support... mods
-  Improved visual quality for loose loot items + money
+Improved visual quality for loose loot items + money
 - Improved SWAT Van
-  Makes SWAT van less stupid looking and boring
+Makes SWAT van less stupid looking and boring
 - Joy High socks and shorts
-  ( ͡° ͜ʖ ͡°)
+( ͡° ͜ʖ ͡°)
 - KingPin Injector Indicator
-  You don't need it if you don't use the Kingpin perk deck
+You don't need it if you don't use the Kingpin perk deck
 - LC_MacroPack_Smoke
-  Makes smoke look better in game
+Makes smoke look better in game
 - Looking for Tracy Tzu
-  Replaces "Drifting" original game song. This is the custom track I use in Preplanning
+Replaces "Drifting" original game song. This is the custom track I use in Preplanning
 - Master Indigos... mods
-  Improve visual quality of First Aid Kits, grenade case, doctor bag, and in-store items in heists
+Improve visual quality of First Aid Kits, grenade case, doctor bag, and in-store items in heists
 - Miami Heat Jacket
-  Custom outfit scheme for Jacket. Basically you should install this so that _my_ character looks awesome when we play
+Custom outfit scheme for Jacket. Basically you should install this so that _my_ character looks awesome when we play
 - Mute Joy Score
-  Joy shouts out annoying things like "Taser Down, 7 points!" this mutes that
+Joy shouts out annoying things like "Taser Down, 7 points!" this mutes that
 - Mute Dentist in Pre-planning
-  "Let's put this boat in the water..." Let's not. Shut up, Gus Fring
+"Let's put this boat in the water..." Let's not. Shut up, Gus Fring
 - Nepgearsy weapon case
-  Improves visual quality of assault weapons loot case
+Improves visual quality of assault weapons loot case
 - Payday Two Intro
-  Replaces game launch intro with one from Yakuza game. Don't need it if you don't play the Yakuza games.
+Replaces game launch intro with one from Yakuza game. Don't need it if you don't play the Yakuza games.
 - Pink Cursor =)
-  What can I say, man?
+What can I say, man?
 - Running in the 80s
-  Great custom track. Makes a nice replacement for the game's title music at the menus, which is how I use it.
+Great custom track. Makes a nice replacement for the game's title music at the menus, which is how I use it.
 - Sirens in the Air Tonight
-  Replaces in-game song "Sirens in the distance" with Phil Collins In the Air Tonight
+Replaces in-game song "Sirens in the distance" with Phil Collins In the Air Tonight
 - Sweet tooth
-  Makes the getaway van have a polka dot and ice cream scheme like sweet tooth from twistedd metal's ice cream truck
+Makes the getaway van have a polka dot and ice cream scheme like sweet tooth from twistedd metal's ice cream truck
 - TexGyre
-  Replaces the default game typeface with a custom one that looks 1 million times better IMO
+Replaces the default game typeface with a custom one that looks 1 million times better IMO
 - Two-tone camera
-  Non-TITAN cameras look nicer
+Non-TITAN cameras look nicer
 - Unique Loot
-  Changes lootbags from being the same navy blue to different depending on contents. Each has a logo. Borderline must-have IMO
+Changes lootbags from being the same navy blue to different depending on contents. Each has a logo. Borderline must-have IMO
 - Uzi's N Carnations Shirt for Sangres
-  Gives Sangres an awesome shirt that I wish I had IRL
+Gives Sangres an awesome shirt that I wish I had IRL
 - Vengance Custom Track
-  Awesome song for loud hesits
+Awesome song for loud hesits
 - Weapon Texture Reworks
-  Makes weapons look better
+Makes weapons look better
 - Wish Bodybag
-  Gives bodybags the WISH.com color and logo
+Gives bodybags the WISH.com color and logo
 - Yakuza 0 Logo
-  To go with my Yakuza intro video mod. Not necessary if you don't play yakuza
+To go with my Yakuza intro video mod. Not necessary if you don't play yakuza
