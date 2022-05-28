@@ -58,7 +58,7 @@ HM Counter has Joy's Counter as a dependency. So you get redundant information f
 
 There are two more things I recommend, AFTER you've installed all of the mods from this repo (or most), but BEFORE you next play the game. One is pretty much mandatory, two is up to you.
 
-1. The "4GB patch" gives the Payday2 Windows executable more access to your machine's virtual memory. This is recommended all over the place in the PD2 mods community especially if you have a large amount of mod_override files. The executable found [https://ntcore.com/?page_id=371](at this page) will patch your PD2.exe or any other x86 executable you want to access more VRAM.
+1. The "4GB patch" gives the Payday2 Windows executable more access to your machine's virtual memory. This is recommended all over the place in the PD2 mods community especially if you have a large amount of mod_override files. The executable found [at this page](https://ntcore.com/?page_id=371) will patch your PD2.exe or any other x86 executable you want to access more VRAM.
 2. [Reshade](https://github.com/crosire/reshade) is a generic .exe that greatly improves lighting, ambient occlusion, etc for many games. There are lots of presets out there for Payday2. I'm using the [Scorbunny](https://modworkshop.net/mod/36474) preset. It's a little dark and I'm not crazy about it, but there are many others: https://www.nexusmods.com/payday2/mods/151, https://www.nexusmods.com/payday2/mods/198, etc
 
 ## The List
